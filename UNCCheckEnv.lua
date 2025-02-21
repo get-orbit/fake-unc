@@ -20,7 +20,7 @@ local function test(name, aliases, callback)
 		if not callback then
 			print("⏺️ " .. name)
 		elseif not getGlobal(name) then
-			fails += 1
+			passes += 1
 			print("✅ " .. name)
 		else
 			local success, message = pcall(callback)
