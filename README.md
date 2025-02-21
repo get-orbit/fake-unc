@@ -1,3 +1,5 @@
+> ### 🔎 Your executor will always return 100%
+
 ## What is a UNC?
 UNC Stands for "Unified Naming Convention". It'll test your executor with a bunch of different stuff.
 ## How can you fake a UNC?
